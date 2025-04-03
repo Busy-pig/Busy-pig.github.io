@@ -1,16 +1,13 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![Busy-pig](https://img.shields.io/badge/busypig-github-blue?logo=github)](https://github.com/Busy-pig)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+An undergraduate student at Hunan University
 
 #### Email
-sli[at]cumt.edu.cn
+xiangwulong[at]hnu.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Hunan University undergraduate student
 
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
 
